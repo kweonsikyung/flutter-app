@@ -101,7 +101,7 @@ class MultipleListWidgets extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            '🎧 클립스토리를 귀로 감상해보세요',
+            '🎧 완결된 동화책을 감상해보세요',
             style: FontSystem.title,
           ),
           SizedBox(height: 20),
