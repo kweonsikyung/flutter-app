@@ -38,6 +38,7 @@ flutter:
     - assets/audio3.jpeg
     - assets/ad1.png
     - assets/ad2.png
+    - assets/splash.png
 
   fonts:
     - family: Pretendard
