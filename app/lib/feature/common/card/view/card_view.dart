@@ -135,11 +135,11 @@ class _MultipleCardWidgetsState extends State<MultipleCardWidgets> {
   String tagToString(String tag) {
     switch (tag) {
       case 'animal':
-        return TagType.animal.title;
+        return TagType.ANIMAL.title;
       case 'family':
-        return TagType.family.title;
+        return TagType.FAMILY.title;
       case 'friend':
-        return TagType.friend.title;
+        return TagType.FRIEND.title;
       default:
         return '';
     }

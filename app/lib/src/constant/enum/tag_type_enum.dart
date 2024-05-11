@@ -1,11 +1,11 @@
 enum TagType {
-  animal(
+  ANIMAL(
     title: "#귀여운 동물",
   ),
-  family(
+  FAMILY(
     title: "#행복한 가족",
   ),
-  friend(title: "#소중한 친구");
+  FRIEND(title: "#소중한 친구");
 
   final String title;
 
